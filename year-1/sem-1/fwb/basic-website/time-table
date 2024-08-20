@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<bodyy>
+<table border="red">
+<tr>
+    <th>TIME</th>
+    <th>09:10-10:10 AM</th>
+    <th>10:10-11:10 AM</th>
+    <th>11:10-12:10 AM</th>
+    <th>12:10-01:10 PM</th>
+    <th>01:10-01:50 PM</th>
+    <th>01:50-02:50 PM</th>
+    <th>02:50-03:50 PM</th>
+    <th>03:50-04:50 PM</th>
+</tr>
+<tr>
+    <td>MONDAY</td>
+    <td>BMC(SM)</td>
+    <td>FWD(AK)</td>
+    <td>PFC(LK)</td>
+    <td>LUNCH</td>
+    <td>DLCO(VS)</td>
+    <td>QR(AH)</td>
+    <td>DLCO(VS)</td>
+    <td>FWD(AK)</td>
+</tr>
+<tr>
+    <td>TUESDAY</td>
+    <td>DLCO(VS)</td>
+    <td>BMC(SM)</td>
+    <td>PFC(LK)</td>
+    <td>FWD(AK)</td>
+    <td>LUNCH</td>
+    <td>BMC(SM)</td>
+</tr>
+<tr>
+    <td>WEDNESDAY</td>
+    <td>FWD(AK)</td>
+    <td>PFC(LK)</td>
+    <td>QR(AH)</td>
+    <td>PFC(LK)</td>
+    <td>LUNCH</td>
+    <td>SELF STUDY</td>
+</tr>
+<tr>
+    <td>THURSDAY</td>
+    <td>QR(AH)</td>
+    <td>EC-1(PN)</td>
+    <td>DLCO(VS)</td>
+    <td>QR(AH)</td>
+    <td>LUNCH</td>
+    <td>LAB FWD</td>
+</tr>
+<tr>
+    <td>FRIDAY</td>
+    <td>EC-1</td>
+    <td>DLCO(VS)</td>
+    <td>DLCO(VS)</td>
+    <td>QR(AH)</td>
+    <td>LUNCH</td>
+    <td>LAB FWD</td>
+</tr>
+</table>
+</body>
+</html>
